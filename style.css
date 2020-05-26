@@ -1,3 +1,10 @@
+:root{
+	--main-background: #0b0c0f;
+	--main-fonts-color: #fff;
+	--main-decor-color:#00a9e2;
+        --main-header-background:#21252e;
+	--main-font-family: 'Poppins', sans-serif;
+}
 #contact{
 	margin: auto;
 	padding-bottom: 20px;
